@@ -19,10 +19,4 @@ In the project directory, you can run:
 ``` npm install ```
 
 ## To Run Application<br />
-<<<<<<< HEAD
 ``` npm start ```
-=======
-``` npm start ``
-
-### `npm start`
->>>>>>> 31a86c90e5b5e6df7f47db7857ecb3f707fe680c
